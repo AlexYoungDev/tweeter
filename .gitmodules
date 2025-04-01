@@ -1,0 +1,3 @@
+[submodule "monitoring"]
+	path = monitoring
+	url = git@github.com:AlexYoungDev/monitoring.git
